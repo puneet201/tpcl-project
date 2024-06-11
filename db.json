@@ -1,0 +1,112 @@
+{
+    "products": [
+    {
+        "id": 1,
+        "title": "Nokia ",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tristique, diam in consequat iaculis, est purus iaculis mauris, imperdiet facilisis ante ligula at nulla. Quisque volutpat nulla risus, id maximus ex aliquet ut. Suspendisse potenti. Nulla varius lectus id turpis dignissim porta. Quisque magna arcu, blandit quis felis vehicula, feugiat gravida diam. Nullam nec turpis ligula. Aliquam quis blandit elit, ac sodales nisl. Aliquam eget dolor eget elit malesuada aliquet. In varius lorem lorem, semper bibendum lectus lobortis ac. Mauris placerat vitae lorem gravida viverra. Mauris in fringilla ex. Nulla facilisi. Etiam scelerisque tincidunt quam facilisis lobortis. In malesuada pulvinar neque a consectetur. Nunc aliquam gravida purus, non malesuada sem accumsan in. Morbi vel sodales libero.",
+        "Price": "300",
+        "color": "",
+        "discount": "200",
+        "photo": "../../assets/img/product-2.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Samsung 2201",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tristique, diam in consequat iaculis, est purus iaculis mauris, imperdiet facilisis ante ligula at nulla. Quisque volutpat nulla risus, id maximus ex aliquet ut. Suspendisse potenti. Nulla varius lectus id turpis dignissim porta. Quisque magna arcu, blandit quis felis vehicula, feugiat gravida diam. Nullam nec turpis ligula. Aliquam quis blandit elit, ac sodales nisl. Aliquam eget dolor eget elit malesuada aliquet. In varius lorem lorem, semper bibendum lectus lobortis ac. Mauris placerat vitae lorem gravida viverra. Mauris in fringilla ex. Nulla facilisi. Etiam scelerisque tincidunt quam facilisis lobortis. In malesuada pulvinar neque a consectetur. Nunc aliquam gravida purus, non malesuada sem accumsan in. Morbi vel sodales libero.",
+        "Price": "500",
+        "color": "",
+        "discount": "399",
+        "photo": "../../assets/img/product-1.jpg"
+      },
+      {
+        "id": 3,
+        "title": "LG 1232",
+        "detail":"Sport trainer",
+        "Price": "600",
+        "color": "Red",
+        "discount": "200",
+        "photo": "../../assets/img/product-3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Sony 23345P",
+        "detail": "product 4 is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tristique, diam in consequat iaculis, est purus iaculis mauris, imperdiet facilisis ante ligula at nulla. Quisque volutpat nulla risus, id maximus ex aliquet ut. Suspendisse potenti. Nulla varius lectus id turpis dignissim porta. Quisque magna arcu, blandit quis felis vehicula, feugiat gravida diam. Nullam nec turpis ligula. Aliquam quis blandit elit, ac sodales nisl. Aliquam eget dolor eget elit malesuada aliquet. In varius lorem lorem, semper bibendum lectus lobortis ac. Mauris placerat vitae lorem gravida viverra. Mauris in fringilla ex. Nulla facilisi. Etiam scelerisque tincidunt quam facilisis lobortis. In malesuada pulvinar neque a consectetur. Nunc aliquam gravida purus, non malesuada sem accumsan in. Morbi vel sodales libero.",
+        "Price": "499",
+        "color": "Red",
+        "discount": "255",
+        "photo": "../../assets/img/product-4.jpg"
+      },
+      {
+        "id":5,
+        "title": "Motorola G22",
+        "detail": "",
+        "Price": "355",
+        "color": "",
+        "discount": "299",
+        "photo": "../../assets/img/product-2.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Moto N99",
+        "detail":"",
+        "Price": "999",
+        "color": "",
+        "discount": "235",
+        "photo": "../../assets/img/product-1.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Apple 14",
+        "detail":"Sport trainer",
+        "Price": "1240",
+        "color": "Red",
+        "discount": "156",
+        "photo": "../../assets/img/product-3.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Apple 15",
+        "detail": "",
+        "Price": "1100",
+        "color": "Red",
+        "discount": "330",
+        "photo": "../../assets/img/product-4.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Apple 11",
+        "detail": "",
+        "Price": "900",
+        "color": "",
+        "discount": "599",
+        "photo": "../../assets/img/product-2.jpg"
+      },
+      {
+        "id": 10,
+        "title": "LG343",
+        "detail":"",
+        "Price": "600",
+        "color": "",
+        "discount": "123",
+        "photo": "../../assets/img/product-1.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Samsung-454",
+        "detail":"Sport trainer",
+        "Price": "300",
+        "color": "Red",
+        "discount": "200",
+        "photo": "../../assets/img/product-3.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Samsung 2321",
+        "detail": "",
+        "Price": "1222",
+        "color": "Red",
+        "discount": "125",
+        "photo": "../../assets/img/product-4.jpg"
+      }
+    ]
+}
